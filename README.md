@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Project
 
-This Python project implements a simple console Tic-Tac-Toe (Hash Game) where a user plays agaist a computer making random moves. The game tracks wins and draws, saving the results to a text file.
+This Python project implements a simple console Tic-Tac-Toe (Hash Game) where a user plays against a computer making random moves. The game tracks wins and draws, saving the results to a text file.
 
 ## Objectives
 
